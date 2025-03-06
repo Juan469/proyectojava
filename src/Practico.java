@@ -6,8 +6,7 @@ public class Practico {
             float altura = 1.75f; 
             char inicialDelNombre = 'J'; 
             boolean esMayorDeEdad = true; 
-            
-            // Imprimir valores
+       
             System.out.println("Edad: " + edad + " años");
             System.out.println("Altura: " + altura + " metros");
             System.out.println("Inicial del nombre: " + inicialDelNombre);
