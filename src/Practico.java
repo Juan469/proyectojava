@@ -1,5 +1,6 @@
 public class Practico {
     
+    
         public static void main(String[] args) {
             
             byte edad = 25; 
@@ -13,5 +14,4 @@ public class Practico {
             System.out.println("Es mayor de edad: " + esMayorDeEdad);
         }
     }
-    
 
