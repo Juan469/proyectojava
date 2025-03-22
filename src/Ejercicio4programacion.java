@@ -4,7 +4,7 @@ public class Ejercicio4programacion {
         Scanner Leer = new Scanner(System.in);
 
         System.out.println("ingresar el sueldo");
-        float sueldo = leer.nextFloat();
+        float sueldo = Leer.nextFloat();
 
         if (sueldo> 3000) {
             System.out.println(" Usted debe pagar impuestos");
